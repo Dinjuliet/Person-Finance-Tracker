@@ -1,7 +1,7 @@
 # Personal-Finance-Tracker
 
 # OVERVIEW
-This is a personal finance dashboard built in Microsoft Excel using GTBank's brand color as inspiration. The project was inspired by a tutorial from Freedom on Evergreen Tech’s platform.
+This is a personal finance dashboard built in Microsoft Excel using GTBank's brand color as inspiration. The project was inspired by a tutorial from Freedom Oboh on Evergreen Tech’s platform.
 
 The dashboard visualizes:
 
@@ -39,7 +39,7 @@ Sample dataset includes:
 - Slicers and formatting panels
 
 # CONNECT WITH ME
-LinkedIn: 
+Email: dinjulieto@gmail.com
 
-Email:
+LinkedIn: https://www.linkedin.com/in/juliet-obianuju-dingwoke
 
