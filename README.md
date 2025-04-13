@@ -7,13 +7,13 @@ This is a comprehensive and interactive Personal Finance Tracker dashboard built
 
 Design and develop a Personal Finance Tracker Dashboard in Excel that offers a seamless user experience with advanced UX elements. The dashboard should help users:
 
--Track income and expenses
+- Track income and expenses
 
--Visualize category-wise spending
+- Visualize category-wise spending
 
--Understand saving patterns
+- Understand saving patterns
 
--Interact with data dynamically
+- Interact with data dynamically
 
 # DATASET DETAILS
 [Download Here](https://drive.google.com/drive/folders/1XJgh3XalxjCcnZj8MmPAXwa2MmQtXjB8)
