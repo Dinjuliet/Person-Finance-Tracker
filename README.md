@@ -1,17 +1,19 @@
 # Personal-Finance-Tracker
 
 # OVERVIEW
-This is a personal finance dashboard built in Microsoft Excel using GTBank's brand color as inspiration. The project was inspired by a tutorial from Freedom Oboh on Evergreen Tech’s platform.
+This is a comprehensive and interactive Personal Finance Tracker dashboard built in Microsoft Excel using GTBank's brand color. This project was inspired by a workshop session led by Freedom and hosted by Evergreen Digital Tech Solution. The aim was to enhance financial visibility using a user-friendly and visually appealing dashboard design.
 
-The dashboard visualizes:
+# PROJECT OBJECTIVES
 
-- Income & spending trends (monthly + weekly)
+Design and develop a Personal Finance Tracker Dashboard in Excel that offers a seamless user experience with advanced UX elements. The dashboard should help users:
 
-- Top spending categories
+-Track income and expenses
 
-- Income source contributions
+-Visualize category-wise spending
 
-- Real-time balance monitoring
+-Understand saving patterns
+
+-Interact with data dynamically
 
 # DATASET DETAILS
 [Download Here](https://drive.google.com/drive/folders/1XJgh3XalxjCcnZj8MmPAXwa2MmQtXjB8)
@@ -34,9 +36,23 @@ Sample dataset includes:
 
 - Basic formulas (TEXT, DATE, etc.)
 
+- Pivot Tables
+
 - Charts (Column, Doughnut, Line)
 
 - Slicers and formatting panels
+
+# KEY HIGHLIGHTS
+
+- Designed a scalable dashboard suitable for both personal finance tracking and educational purposes
+
+- Gained practical experience integrating design thinking with data analysis using Excel
+
+- Emphasized UX principles such as visual hierarchy, alignment, iconography, and effective use of color theory
+
+# OTHERS
+
+[LinkedIn Post](https://www.linkedin.com/posts/juliet-obianuju-dingwoke_exceldashboard-gtbankinspo-dashboarddesign-activity-7316522303171784704-X6DX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2sYEB_u54k7kCyt5xLX2OS6Iqo3GlcSg)
 
 # CONNECT WITH ME
 Email: dinjulieto@gmail.com
